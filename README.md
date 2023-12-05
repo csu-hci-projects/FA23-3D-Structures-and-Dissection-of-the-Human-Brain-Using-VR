@@ -1,1 +1,2 @@
 # FA23-3D-Structures-and-Dissection-of-the-Human-Brain-Using-VR
+Dive into the amazing world of the human brain with our VR app!Explore its 3D structure and interactive dissection experience.Uncover the complexities of the brain's anatomy with easy controls and a visually stunning virtual environment. This porject have improved the existing VR application by using neurtal colors for the different brain structure and backgroud to reduce the discomfortness. The Quantative and Qualitative study is conducted to analyse the efficiency of the application.
