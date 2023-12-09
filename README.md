@@ -7,5 +7,5 @@ Dive into the amazing world of the human brain with our VR app!Explore its 3D st
 * Oculus Integration Package
 ## Video Links :
  * Short overview video :  https://youtu.be/s0UfoOdYSco
- * Presentation video : https://youtu.be/RL_RjtWyqos
- * Explanation of code and experiment video : https://youtu.be/hfIs9ORuPko
+ * Presentation video :  https://youtu.be/1EMsJl5Ilq0
+ * Explanation of code and experiment video : [https://youtu.be/hfIs9ORuPko](https://youtu.be/RL_RjtWyqos)https://youtu.be/RL_RjtWyqos
