@@ -8,4 +8,4 @@ Dive into the amazing world of the human brain with our VR app!Explore its 3D st
 ## Video Links :
  * Short overview video :  https://youtu.be/s0UfoOdYSco
  * Presentation video : https://youtu.be/RL_RjtWyqos
- * Explanation of code and experiment video : 
+ * Explanation of code and experiment video : https://youtu.be/hfIs9ORuPko
