@@ -6,6 +6,6 @@ Dive into the amazing world of the human brain with our VR app!Explore its 3D st
 * Dotween Pro
 * Oculus Integration Package
 ## Video Links :
- * Short overview video :  
+ * Short overview video :  https://youtu.be/s0UfoOdYSco
  * Presentation video : 
  * Explanation of code and experiment video : 
